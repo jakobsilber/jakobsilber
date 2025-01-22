@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakobsilber
 - 👀 I’m interested in agriculture, technology and good UI Design
 - 🌱 I’m currently studying Agricultural Tec
-- 📫 How to reach me: write me an E-MAil to jakob.silber@poettinger.at  
+- 📫 How to reach me: write me an E-Mail to jakob.silber@poettinger.at  
 - 😄 Pronouns: he  
 - ⚡ Fun fact: a fish doesn´t have knees
 
